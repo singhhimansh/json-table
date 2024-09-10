@@ -232,6 +232,32 @@ export const users= [
       "gender": "female",
       "location": "San Francisco",
       "dateOfJoining": "2020-07-07"
+    },
+       {
+      "id": 19,
+      "name": "Joshua Taylor",
+      "username": "joshua_yes",
+      "role": "Tester",
+      "email": "Joshua.taylor@example.com",
+      "status": "working",
+      "teams": ["Tester"],
+      "profileImage": "https://example.com/images/joshua_yes.jpg",
+      "gender": "non-binary",
+      "location": "Seattle",
+      "dateOfJoining": "2022-05-16"
+    },
+    {
+      "id": 20,
+      "name": "Mac Brown",
+      "username": "mac_brown",
+      "role": "manager",
+      "email": "mac.brown@example.com",
+      "status": "working",
+      "teams": ["frontend", "design"],
+      "profileImage": "https://example.com/images/rachel.jpg",
+      "gender": "female",
+      "location": "San Francisco",
+      "dateOfJoining": "2020-07-07"
     }
 
 ]
