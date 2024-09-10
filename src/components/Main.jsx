@@ -27,6 +27,8 @@ const Main = () => {
   );
   console.log("selectedRows: ", selectedRows);
 
+
+  // Table schema to dispaly table content in corresponding column 
   const columns = [
     {
       key: "id",
