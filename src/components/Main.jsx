@@ -87,7 +87,7 @@ const Main = () => {
     },
     {
       key: "role",
-      headerName: "Profession",
+      headerName: "Role",
     },
     {
       key: "teams",
